@@ -1,0 +1,10 @@
+DISEÑO DE FLUJO DE AUTOMATIZACIÓN
+
+¿Qué evento activa el flujo?
+Un nodo de tipo Webhook en n8n recibe una señal cada vez que se registra un nuevo reporte en el sistema web.
+
+¿Qué mensaje se enviaría a Telegram?
+"🚨 [Alerta de Veeduría]: Se ha registrado un nuevo reporte comunitario. Por favor, ingresar al panel para validar el caso."
+
+¿Qué información no debería enviarse por seguridad?
+Nombres completos de los denunciantes, documentos de identidad, números de teléfono, direcciones exactas de viviendas o contraseñas. Toda información sensible se queda en la base de datos interna.

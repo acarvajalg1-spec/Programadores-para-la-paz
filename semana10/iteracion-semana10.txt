@@ -1,0 +1,11 @@
+¿Qué 2 tareas del backlog harías primero?
+1. Registrar un reporte de falla en la infraestructura comunitaria.
+2. Consultar el listado de reportes recibidos.
+
+¿Por qué son las más importantes?
+Porque constituyen el núcleo de la solución. Sin la capacidad de registrar una queja y sin un panel para verlas, la plataforma no funciona. Las alertas de Telegram o estadísticas son secundarias.
+
+Definición de "Terminado":
+1. El código de la funcionalidad corre localmente sin errores.
+2. Se realizaron pruebas manuales exitosas del flujo.
+3. El avance quedó registrado y subido al repositorio de Git.

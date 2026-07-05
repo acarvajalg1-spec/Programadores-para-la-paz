@@ -1,0 +1,6 @@
+HISTORIAS DE USUARIO PRIORIZADAS
+
+1. Alta Prioridad: Como ciudadano afectado, quiero registrar un reporte de falla en la infraestructura comunitaria para dejar evidencia pública del caso.
+2. Alta Prioridad: Como miembro del equipo de veeduría, quiero consultar el listado de reportes recibidos para hacerles seguimiento.
+3. Media Prioridad: Como coordinador del proyecto, quiero recibir una alerta automática en Telegram cuando haya un nuevo reporte para revisarlo rápidamente.
+4. Baja Prioridad: Como usuario de la comunidad, quiero ver estadísticas simples en la plataforma sobre cuántos casos se han resuelto este mes.
