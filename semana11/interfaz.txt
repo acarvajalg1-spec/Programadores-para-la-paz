@@ -1,0 +1,6 @@
+Descripción de la Interfaz Gráfica Básica:
+
+1. Formulario para crear una causa: Una sección accesible únicamente para usuarios logueados que incluye un campo de texto para el "Título", un área de texto más amplia para la "Descripción" y un botón visible que dice "Publicar Causa".
+2. Vista de causas disponibles: Un panel principal o "muro comunitario" donde se despliegan en forma de tarjetas (cards) todas las causas creadas con su respectivo título, descripción y fecha de publicación.
+3. Botón para apoyar una causa y contador: Dentro de la tarjeta de cada causa, se ubicará un botón con un ícono interactivo (como un corazón o un pulgar arriba) con la palabra "Apoyar". Justo al lado, se mostrará un número dinámico que actúe como contador de los apoyos totales recibidos en tiempo real.
+4. Enfoque de privacidad: La interfaz se mantendrá clara y minimalista, ocultando por completo cualquier tipo de dato personal de los usuarios que interactúan con el software.

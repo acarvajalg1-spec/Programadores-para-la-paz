@@ -1,0 +1,3 @@
+El login es el proceso mediante el cual un usuario demuestra su identidad introduciendo sus credenciales para acceder a funciones personalizadas del sistema.
+Es fundamental que algunas rutas estén protegidas porque contienen información confidencial, configuraciones del servidor o permiten realizar modificaciones críticas (como alterar o eliminar registros) que no deben estar al alcance de cualquier visitante anónimo.
+En una plataforma digital, bajo ninguna circunstancia se debe exponer públicamente información sensible como contraseñas en texto plano, claves de API, tokens de sesión, direcciones particulares exactas, números de documentos de identidad o datos privados de contacto de los miembros de la comunidad, mitigando así riesgos de hackeos o acoso.

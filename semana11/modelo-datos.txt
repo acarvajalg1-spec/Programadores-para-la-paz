@@ -1,0 +1,24 @@
+Entidad: Causa
+
+Campos principales:
+- id (Numérico o UUID / Clave Primaria)
+- titulo (Texto / Nombre o enunciado de la causa)
+- descripcion (Texto largo / Explicación detallada del problema)
+- fecha_creacion (Fecha / Registro de cuándo se publicó)
+- usuario_id (Numérico o UUID / Enlace al usuario que la creó)
+
+Propósito:
+Almacenar de forma organizada todas las iniciativas y propuestas de la comunidad para que permanezcan guardadas en el sistema y se puedan consultar públicamente en la aplicación.
+
+--------------------------------------------------
+
+Entidad: Apoyo
+
+Campos principales:
+- id (Numérico o UUID / Clave Primaria)
+- causa_id (Numérico o UUID / Clave Foránea vinculada a la Causa)
+- usuario_id (Numérico o UUID / Clave Foránea vinculada al usuario que apoya)
+- fecha_apoyo (Fecha y Hora / Registro de cuándo se realizó la acción)
+
+Propósito:
+Registrar de manera transparente cada apoyo o voto que recibe una causa específica, permitiendo llevar un control preciso de la participación ciudadana y evitar la duplicidad de apoyos por un mismo usuario.f
