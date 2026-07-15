@@ -1,0 +1,10 @@
+Propuesta de Automatización del Sistema (Telegram)
+
+1. Evento que activa la automatización: 
+Cuando una causa alcanza un número representativo de firmas (por ejemplo, 100 apoyos registrados).
+
+2. Mensaje que se envía de forma automática:
+"¡Meta alcanzada! La causa comunitaria '[Título de la Causa]' ha recolectado con éxito 100 apoyos. El documento formal en PDF de la petición ha sido generado automáticamente y se encuentra listo para ser descargado y radicado."
+
+3. Información que NO debe enviarse por seguridad:
+Bajo ninguna circunstancia se deben enviar datos personales de los ciudadanos que apoyaron (como cédulas, teléfonos, direcciones particulares, correos electrónicos, ni contraseñas), resguardando estrictamente su privacidad.

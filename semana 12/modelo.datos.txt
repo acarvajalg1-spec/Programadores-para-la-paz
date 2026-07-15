@@ -1,0 +1,23 @@
+Modelo de datos para la plataforma "Petición en 3 Clics"
+
+Entidad: Causa
+Campos:
+- id (Numérico / Clave Primaria)
+- titulo (Texto / Nombre de la petición)
+- descripcion (Texto / Explicación del problema o solicitud)
+- fecha (Fecha y hora / Cuándo se creó la causa)
+
+Propósito de Causa: 
+Almacenar toda la información descriptiva y los detalles de la solicitud de la comunidad para que pueda ser mostrada públicamente y sirva de base para el PDF final.
+
+--------------------------------------------------
+
+Entidad: Apoyo
+Campos:
+- id (Numérico / Clave Primaria)
+- causa_id (Numérico / Clave Foránea vinculada a la Causa)
+- nombre (Texto / Firma o seudónimo del ciudadano que apoya)
+- fecha (Fecha y hora / Momento exacto en que se registró el voto de apoyo)
+
+Propósito de Apoyo:
+Registrar de manera transparente y numérica el volumen de ciudadanos que respaldan activamente cada petición, permitiendo validar y dar peso colectivo al reclamo sin sobrecargar el sistema de datos privados.
